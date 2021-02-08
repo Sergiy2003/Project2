@@ -1,6 +1,7 @@
 '''dd'''
 def validate_board(board):
     '''
+    my repository -> https://github.com/Sergiy2003/Project2.git
     function check a field and give you the information about its preparation.
     False if field is not read for using or true if it's
     >>> validate_board([\
@@ -15,7 +16,6 @@ def validate_board(board):
     "  2  ****"\
     ])
     False
-    my repository -> https://github.com/Sergiy2003/Project2.git
     '''
     number_list = [1,2,3,4,5,6,7,8,9]
     horizontal_list = []
