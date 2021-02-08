@@ -1,7 +1,7 @@
 '''dd'''
 def validate_board(board):
     '''
-    why so many commits ?
+    why so many commits ? really why ?
     my repository -> https://github.com/Sergiy2003/Project2.git
     function check a field and give you the information about its preparation.
     False if field is not read for using or true if it's
